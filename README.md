@@ -23,7 +23,7 @@ kindly copy the rms folder in the htdocs inside the Xammp server
 
 Then open in the Xammp control panel -> Turn on Apache and MySQL services.
 
-Kindly open php my admin , create a database with the name : rent_management_system.
+Kindly open php my admin , create a database with the name : rent_management_system (Note: mention the underscores)
 
 Then in the Import SQL Tab , kindly import the rent_management_system.sql
 
