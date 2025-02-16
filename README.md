@@ -29,4 +29,5 @@ Then in the Import SQL Tab , kindly import the rent_management_system.sql
 
 In the Web Browser , in the Search Box specify : localhost/rms/
 
-Then log into the system by email : test@gmail.com and password : test
+Then log into the system by email : test@gmail.com and password : test1
+
